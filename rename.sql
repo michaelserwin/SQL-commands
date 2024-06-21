@@ -1,0 +1,1 @@
+alter table student change marksscored marks int

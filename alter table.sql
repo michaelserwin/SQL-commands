@@ -1,0 +1,1 @@
+alter table student add column city varchar(100)
